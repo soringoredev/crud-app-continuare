@@ -20,5 +20,11 @@ public class Student {
     @Column(name="email")
     private String email;
 
+    // definirea constructorilor
+    public Student() {
+
+    }
+
+
 
 }
